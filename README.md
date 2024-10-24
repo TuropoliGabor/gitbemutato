@@ -1,1 +1,2 @@
-Readme
+# Turopoli Gábor
+# TG
